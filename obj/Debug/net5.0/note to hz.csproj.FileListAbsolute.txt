@@ -1,0 +1,48 @@
+C:\Users\gndes\Desktop\note to hz\bin\Debug\net5.0\note to hz.exe
+C:\Users\gndes\Desktop\note to hz\bin\Debug\net5.0\note to hz.deps.json
+C:\Users\gndes\Desktop\note to hz\bin\Debug\net5.0\note to hz.runtimeconfig.json
+C:\Users\gndes\Desktop\note to hz\bin\Debug\net5.0\note to hz.runtimeconfig.dev.json
+C:\Users\gndes\Desktop\note to hz\bin\Debug\net5.0\note to hz.dll
+C:\Users\gndes\Desktop\note to hz\bin\Debug\net5.0\ref\note to hz.dll
+C:\Users\gndes\Desktop\note to hz\bin\Debug\net5.0\note to hz.pdb
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.csprojAssemblyReference.cache
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.AssemblyInfoInputs.cache
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.AssemblyInfo.cs
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.csproj.CoreCompileInputs.cache
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.dll
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\ref\note to hz.dll
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.pdb
+C:\Users\gndes\Desktop\note to hz\obj\Debug\net5.0\note to hz.genruntimeconfig.cache
+D:\DESKTOP TO ORGANIZE\note to hz\bin\Debug\net5.0\note to hz.exe
+D:\DESKTOP TO ORGANIZE\note to hz\bin\Debug\net5.0\note to hz.deps.json
+D:\DESKTOP TO ORGANIZE\note to hz\bin\Debug\net5.0\note to hz.runtimeconfig.json
+D:\DESKTOP TO ORGANIZE\note to hz\bin\Debug\net5.0\note to hz.runtimeconfig.dev.json
+D:\DESKTOP TO ORGANIZE\note to hz\bin\Debug\net5.0\note to hz.dll
+D:\DESKTOP TO ORGANIZE\note to hz\bin\Debug\net5.0\ref\note to hz.dll
+D:\DESKTOP TO ORGANIZE\note to hz\bin\Debug\net5.0\note to hz.pdb
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.csprojAssemblyReference.cache
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.AssemblyInfoInputs.cache
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.AssemblyInfo.cs
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.csproj.CoreCompileInputs.cache
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.dll
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\ref\note to hz.dll
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.pdb
+D:\DESKTOP TO ORGANIZE\note to hz\obj\Debug\net5.0\note to hz.genruntimeconfig.cache
+D:\gndes\Documents\Projetos\Programação\note to hz\bin\Debug\net5.0\note to hz.exe
+D:\gndes\Documents\Projetos\Programação\note to hz\bin\Debug\net5.0\note to hz.deps.json
+D:\gndes\Documents\Projetos\Programação\note to hz\bin\Debug\net5.0\note to hz.runtimeconfig.json
+D:\gndes\Documents\Projetos\Programação\note to hz\bin\Debug\net5.0\note to hz.runtimeconfig.dev.json
+D:\gndes\Documents\Projetos\Programação\note to hz\bin\Debug\net5.0\note to hz.dll
+D:\gndes\Documents\Projetos\Programação\note to hz\bin\Debug\net5.0\ref\note to hz.dll
+D:\gndes\Documents\Projetos\Programação\note to hz\bin\Debug\net5.0\note to hz.pdb
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.csprojAssemblyReference.cache
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.GeneratedMSBuildEditorConfig.editorconfig
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.AssemblyInfoInputs.cache
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.AssemblyInfo.cs
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.csproj.CoreCompileInputs.cache
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.dll
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\ref\note to hz.dll
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.pdb
+D:\gndes\Documents\Projetos\Programação\note to hz\obj\Debug\net5.0\note to hz.genruntimeconfig.cache
